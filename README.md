@@ -1,6 +1,6 @@
 Hi, I'm Mac Walker!
 
-I am interested in integrating emerging technologies across society in a safe a secure way.
+I am interested in integrating emerging technologies across society in a safe and secure way.
 
 <!---
 macaswalker/macaswalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
