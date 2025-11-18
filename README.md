@@ -1,10 +1,12 @@
-Hi, I'm Mac Walker!
-
-I am interested in integrating emerging technologies across society in a safe and secure way.
+# Mac Walker
 
 ## About Me
 ### Now
 I am an AI policy fellow with the Institute for AI Policy and Strategy, where I am creating dangerous capability evaluations and thinking about policy instruments conditional on their results.
+
+### Relevant Links:
+- [Personal Website](https://www.macwalker.uk/)
+- [LinkedIn](https://www.linkedin.com/in/mac-walker1/)
 
 ### Before
 I’m currently pursuing an MPhil in Biotechnology at the University of Cambridge, focusing on the intersection of AI and biology. Specifically, I am looking at single-cell foundation models and using them for drug discovery. I am part of MARS (Mentorship for Alignment Research Students) where we are investigating using Gradient Routing for circuit transplantation in transformer models. On top of this, I am a committee member of the Cambridge AI Safety Hub (CAISH). I am also currently a baby VC fellow.
